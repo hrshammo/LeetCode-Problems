@@ -49,7 +49,7 @@ Please make sure to follow good coding practices and provide clear explanations 
 
 ## Author
 
-- [Your LeetCode Profile](https://leetcode.com/hrshammo/)
+- [View Author Profile](https://leetcode.com/hrshammo/)
 
 ## License
 
